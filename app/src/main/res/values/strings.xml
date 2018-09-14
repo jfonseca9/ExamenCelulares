@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="registroCelular">Registrar Celular</string>
+    <string name="marca">Marca:</string>
+    <string name="capacidad">Capacidad:</string>
+    <string name="color">Color:</string>
+    <string name="precio">Precio:</string>
+    <string name="crear">Crear</string>
+    <string name="borrar">borrar</string>
+    <string name="numero">#</string>
+    <string name="promedio">Precio Promedio Equipos Nokia</string>
+
+    <array name="Opciones">
+        <item>@string/item1</item>
+        <item>@string/Item2</item>
+    </array>
+
+    <array name="Reportes">
+        <item>@string/listar</item>
+        <item>@string/reporte2</item>
+        <item>@string/reporte4</item>
+        <item>@string/reporte5</item>
+    </array>
+    <string name="item1">Ingresar Celular</string>
+    <string name="Item2">Reportes</string>
+    <string name="mensaje_Exitoso">Celular registrado exitosamente</string>
+    <string name="listar">VER TODOS LOS REGISTROS</string>
+    <string name="reporte2">REPORTE 2</string>
+    <string name="reporte4">REPORTE 4</string>
+    <string name="reporte5">REPORTE 5</string>
+    <string name="cantApple">Cantidad de equipos Apple negro</string>
+    <string name="so">Sist Operativo</string>
+    <string name="so2">So:</string>
+    <string name="mensaje_error_1">Debe introducir la marca</string>
+    <string name="mensaje_error_2">Debe introducir la capacidad</string>
+    <string name="mensaje_error_3">Debe introducir el color</string>
+    <string name="mensaje_error_4">Debe introducir el sistema operativo</string>
+    <string name="mensaje_error_5">Debe introducir el precio</string>
+</resources>

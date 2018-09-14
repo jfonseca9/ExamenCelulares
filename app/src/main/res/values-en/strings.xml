@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">marca</string>
+    <string name="Marca">brand</string>
+    <string name="registroCelular">Register</string>
+    <string name="marca">Brand</string>
+    <string name="capacidad">Capacity</string>
+    <string name="color">color</string>
+    <string name="precio">Price</string>
+    <string name="crear">Create</string>
+    <string name="limpiar">Delete</string>
+    <string name="numero">#</string>
+    <string name="promedio">Average</string>
+    <string name="item1">" Enter cell"</string>
+    <string name="Item2">Reports</string>
+    <string name="reporte2">Reports One</string>
+    <string name="reporte4">Reports Two</string>
+    <string name="reporte5">Reports Three</string>
+    <string name="cantApple">Quantity of black Apple computers</string>
+    <string name="mensaje_Exitoso">" Cell phone successfully registered"</string>
+    <string name="listar">See All Records</string>
+    <string name="so">" OS"</string>
+    <string name="so2">" OS :"</string>
+    <string name="mensaje_error_1">" You must enter the brand"</string>
+    <string name="mensaje_error_2">" You must enter the capacity"</string>
+    <string name="mensaje_error_3">" You must enter the color"</string>
+    <string name="mensaje_error_4">" You must enter the operating system"</string>
+    <string name="mensaje_error_5">" You must enter the Price"</string>
+</resources>

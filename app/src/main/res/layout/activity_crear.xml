@@ -37,7 +37,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="0.13"
             android:ems="10"
-            android:inputType="textPersonName" />
+            android:inputType="textPersonName"
+            tools:background="@android:color/holo_blue_dark" />
 
     </LinearLayout>
 
@@ -61,7 +62,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="0.22"
             android:ems="10"
-            android:inputType="textPersonName" />
+            android:inputType="textPersonName"
+            tools:background="@android:color/holo_blue_dark" />
 
     </LinearLayout>
 
@@ -83,6 +85,7 @@
             android:layout_width="144dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.13"
+            android:background="@android:color/holo_blue_dark"
             android:ems="10"
             android:inputType="textPersonName" />
 
@@ -106,6 +109,7 @@
             android:layout_width="144dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.30"
+            android:background="@android:color/holo_blue_dark"
             android:ems="10"
             android:inputType="textPersonName" />
 
@@ -129,6 +133,7 @@
             android:layout_width="144dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.12"
+            android:background="@android:color/holo_blue_dark"
             android:ems="10"
             android:inputType="textPersonName" />
 
